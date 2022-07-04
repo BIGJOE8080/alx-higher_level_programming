@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author: Martins Akhivbareme
 def divisible_by_2(my_list=[]):
     new_list = []
     for i in range(len(my_list)):
@@ -8,12 +7,3 @@ def divisible_by_2(my_list=[]):
         else:
             new_list.append(False)
     return new_list
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Cont
